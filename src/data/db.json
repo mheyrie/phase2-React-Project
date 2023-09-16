@@ -1,0 +1,270 @@
+{
+"items": [
+    {
+      "id": 1,
+      "name": "Noodles",
+      "image": "https://e7.pngegg.com/pngimages/15/63/png-clipart-noodle-noodle.png",
+      "description": "Indomie noodles have been able to capture the hearts of most Nigerians with a series of good products and of course their often captivating commercials.",
+      "ingredients": [
+        "2 Fresh tomatoes",
+        "sliced Onions",
+        "Fresh pepper",
+        "Eggs",
+        "50ml vegetable oil" 
+      ],
+      "instruction": [
+        "Set a pot on heat, add two cups of water and allow to boil",
+        "Dice the carrots and chop the green bean",
+        "Boil eggs separately, deshell and set aside",
+        "In the pot with boiling water, combine noodles, carrots, and green beans",
+        "Allow cooking for 3 minutes, add the follow come spices, allow another minute"
+            ]
+    },
+    {
+      "id": 2,
+      "name": "Akara",
+      "image": "https://guardian.ng/wp-content/uploads/2015/07/akara.jpg",
+      "description": "Akara is considered as one of the national foods today. It’s made from beans",
+      "ingredients": [
+        "Beans",
+        "Pepper",
+        "Onions",
+        "Crayfish",
+        "Salt(or any form of perferred spice)",
+        "Water",
+        "Egg/Fish",
+        "vegetable oil Enough for deep frying"],
+      "instruction": [
+        "Soak the beans for about 15 to 20 minutes until the skin is swollen",
+        "Peel off the skin of the bean and place it in a blender until smooth",
+        "Pour the batter into a large bowl and whisk it",
+        "Add diced onion",
+        "Heat some oil (enough to fry the Akara) in a pan on medium to high heat",
+        "When fried, Remove the Akara from the pan and drain on a paper towel-lined plate",
+        "Serve with bread/pap/oatmeal or other desired side"
+      ]    
+    },
+    {
+      "id": 3,
+      "name": "Jollof-Rice",
+      "image": "https://www.blackfoodie.co/wp-content/uploads/2017/09/Screen-Shot-2017-09-22-at-12.22.49-PM.png",
+      "description": "There are a number of details that work together to deliver stellar jollof rice, which I would define as rice that's stewed and seasoned to perfection, with an orange-red color and separate grains that are neither hard nor mush; jollof should not be creamy like risotto.",
+      "ingredients": [
+        "1 pound (475g) plum tomatoes cored and roughly chopped",
+        "2 medium red bell peppers",
+        "1 medium (8-ounce; 225g) red onion roughly chopped",
+        "1/4 of a Scotch bonnet or habanero pepper",
+        "1 1/2 cups (355ml) Nigerian stock",
+        "1/4 cup (60ml) peanut vegetable or other neutral oil",
+        "1 medium (8-ounce; 225g) red onion thinly sliced divided",
+        "3 dried bay leaves",
+        "2 teaspoons Caribbean/Jamaican-style curry powder (see note) plus more if needed",
+        "2 teaspoons dried thyme",
+        "2 tablespoons (30g) tomato paste",
+        "3 teaspoons (12g) unsalted butter divided (see note)",
+        "1 1/2 cups (355ml) Nigerian stock",
+        "2 cups (400g) converted long-grain rice or Golden Sella basmati rinsed",
+        "1 plum tomato (4-ounces; 120g) halved then sliced thinly crosswise into half-moons"
+      ],
+      "instruction": [
+        "Blend your tomatoes, red pepper, scotch bonnet peppers in a food processor or blender for about 45 seconds, make sure that everything is blended well.",
+        "In a medium sized pot, heat your oil on medium-high heat. Once the oil is heated add the onions you set aside and fry just until they turn golden brown. Once the onions, have turned brown in color add the tomato paste and fry for 2-3 minutes. Then add the blended tomato mixture (reserve about 1/4 cup and set aside) and fry the mixture with the onions and tomato paste for about 30 minutes. Make sure you stir consistently so that the tomato mixture does not burn.",
+        "After 30 minutes, turn the heat down to medium, and add the chicken stock. Mix and add your seasonings (salt, curry powder, thyme, all purpose seasoning, and the Knorr stock cube). Continue to boil for 10 minutes.",
+        "Add the parboiled rice to the pot. Mix it very well with the tomato stew. At this point if you need to add water so that the rice is level with the tomato mixture/chicken stock go ahead and do so. Add the bay leaves, cover the pot, and cook on medium to low heat for 15-30 minutes.",
+        "When the liquid has almost dried up add the remaining tomato stew, cover, and let it cook for another 5-10 minutes heat until the liquid has completely dried up. Turn off the heat, mix thoroughly, and your Jollof Rice is ready to be eaten!"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spagetti",
+      "image": "https://static.vecteezy.com/system/resources/previews/025/065/195/original/spaghetti-with-ai-generated-free-png.png",
+      "description": "Spaghetti Jollof is a delicious fusion of the popular Nigerian Jollof Rice. This dish combines the rich, spicy flavors of Jollof sauce with the comforting, familiar texture of spaghetti. The result is a delicious meal thats flavorful and filling!",
+      "ingredients": [
+        "Spaghetti",
+        "Red bell peppers, tomatoes, scotch bonnet, and onions The habanero brings heat and spiciness to the sauce.",
+        "Onions, garlic, and fresh ginger",
+        "Paprika, thyme, curry powder, bay leaves, bouillon powder, salt, and pepper",
+        "Broth chicken, beef, or vegetable broth will work"
+      ],
+      "instruction": [
+        "Blend bell pepper, scotch bonnet, tomatoes, and onion until smooth.",
+        "Sauté onion, garlic, and ginger in oil, then add tomato paste.",
+        "Mix in blended sauce, spices, and broth, and bring to a boil.",
+        "Add pasta and cook until al dente.",
+        "Stir in vegetables, if using, and simmer for 2-3 minutes.",
+        "Serve hot with protein and a side dish."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ewedu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQxVCSpepvVRXSLjhx-PkRKocf2ep8iQmBw&usqp=CAU",
+      "description": "Let’s talk a little about this amazing nutritious indigenous delicacy of Western Nigeria (Yorubas). Commonly called “Abula”, this cuisine is a sight to sore eyes in bukas and food joints where many love to go have their fill of this mouth-watering meal.",
+      "ingredients": [
+        "1 Cup Ewedu leaves",
+        "2 cups of Beans",
+        "Locust beans"
+      ],
+      "instruction": [
+        "Pour thoroughly washed ewedu leaves into blender and blend." ,
+        "Pour back into a small pot; add locust beans", 
+        "add a pinch of salt to taste.",
+        "Allow to cook on low heat.",
+        "That’s it, now your delish ewedu is ready!"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ewagan-yin",
+      "image": "https://allnigerianfoods.com/wp-content/uploads/ewa-agoyin-recipe.jpg",
+      "description": "If you're looking for Ewa Agoyin & Pepper Sauce Recipe, Then you're in the right place because this recipe post would walk you through, step-by-step, how to make Ewa Agoyin & Pepper Sauce.",
+      "ingredients": [
+        "3 cups of black eyed beans or white beans",
+        "Salt to taste",
+        "Water, enough to boil the beans",
+        "1 cup of palm oil",
+        "2 medium sized onions, 1 should be thinly sliced",
+        "¼ cup of dried shombo peppers",
+        "1 teaspoon of minced ginger",
+        "2-3 pieces of Cameroon pepper",
+        "2-3 tablespoons of ground crayfish",
+        "1-2 dried bell pepper (tatashe)",
+        "Seasoning cube(s) to taste",
+        "Salt to taste"
+      ],
+      "instruction": [
+        "Soak your dried shombo and bell peppers in hot water possibly overnight or for about 6hours till they get plump.",
+        "Slice one of the onions then add your plump dried peppers, minced ginger and Cameroon pepper to a blender. Add a bit of water and blend coarsely (it shouldn’t be smooth, let the seeds still show). Transfer into a bowl and set aside.",
+        "Measure your beans into a pot, about 6-8 cups of water and boil till it’s very soft. This should take about 2 hours. When tender, add a pinch of salt and mash with a hand mixer or masher.",
+        "In a large pan, add your palm oil and cover with a tight lid then allow to bleach for about 10-12mins.",
+        "Reduce the heat to low after bleaching then add your thinly sliced onions and allow to fry till it’s caramelise or slightly burnt.",
+        "Add your blended pepper mix into the pan, maintaining a low heat. Add your ground crayfish, seasoning cube(s) and salt to taste. Allow to fry for about 45mins, stirring from time to time. You should get a black colour but not burnt sauce.",
+        "Turn off heat and serve your Ewa Agoyin with Agege Bread preferably"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Oha-soup",
+      "image": "https://ofefoods.com/storage/2021/07/oha-soup.jpg",
+      "description": "Ora (Oha) soup is native to the South Eastern Nigeria. It is a very traditional soup similar to the bitterleaf soup but cooked with Ora leaves. Ora (Oha) Soup is special because the tender ora leaves used in preparing this soup recipe are seasonal unlike their bitterleaf counterpart which can be found all year round.",
+      "ingredients": [
+        "Vegetable: Ora leaves",
+        "8 small corms cocoyam",
+        "3 cooking spoons Red Palm Oil",
+        "Assorted Beef: Includes best cut, shaki (cow tripe)",
+        "Assorted Fish: Dry Fish and Stock Fish",
+        "Chilli pepper, salt and crayfish (to taste)",
+        "2 Stock cubes",
+        "1 teaspoon Ogiri Igbo"
+      ],
+      "instruction": [
+        "Boil the shaki (cow tripe), stock fish and dry fish in 1 litre of water till they are well done. First sign of a done shaki is that the cuts will start curling on itself.",
+        "Wash the beef and add to the pot of shaki etc. and continue cooking. When the meat is done, add 2 stock cubes and cook for 5 minutes.",
+        "Add the pepper, ogiri Igbo and ground crayfish and cook for 10 minutes. Add the cocoyam paste in small lumps and then the palm oil.",
+        "Cover the pot and leave to cook on high heat till all the cocoyam lumps have dissolved. You can add more water if you feel that the soup is too thick.",
+        "Add the ora (oha) leaves and leave to cook for about 5 minutes.",
+        "Add salt to taste, stir and the soup is ready!"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Okra-soup",
+      "image": "https://ireekitchen.com/wp-content/uploads/2020/12/Okro_soup_1.jpg",
+      "description": "Okra Soup is one of the quickest and easiest Nigerian soups to prepare. Some argue that a lot of work goes to the cutting of the two vegetables used in preparing this recipe. Yes but once the vegetables are ready; it cooks in no time at all.",
+      "ingredients": [
+      "5 cups (250g) Okra",
+      "3 cooking spoons red palm oil",
+      "Beef: Best cut",
+      "Shaki (Cow Tripe) (Optional",
+      "Fish: Iced Fish (Mackerel/Titus), Dry Fish, Stock Fish",
+      "1 handful crayfish",
+      "Pepper and Salt (to taste)",
+      "Onions (optional)",
+      "Vegetable: Nigerian pumpkin leaves or spinach (fresh or frozen)",
+      "3 stock/boullion cube"
+      ],
+      "instruction": [
+        "If you will use shaki (cow tripe) for the soup, wash and boil till it is done. Add water sparingly because this soup needs to be thick. Add the soaked stockfish and dry fish to the cooked shaki. The length of time it will take to cook shaki depends on the cooking appliance utilized. You can take a bite to confirm this.",
+        "When you are happy that the shaki and stock fish are well-done, add the beef, onions and stock cubes and cook till done. Then add the iced fish and cook till done.",
+        "Pour red palm oil in another pot and heat the pot to dissolve the oil if it is congealed. Add the diced okra and start frying to kick-start the drawing process, add some meat stock from time to time till you notice the okra start to draw. This process should take a maximum of 5 mins to avoid over-cooking the okra",
+        "Now add the vegetable and stir well. Add all the meat and fish, crayfish, pepper and salt to taste. Then stir well.",
+        "Cover the cooking pot and leave to simmer and it is ready to be served."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Afang-soup",
+      "image": "https://guccilounge.net/wp/wp-content/uploads/2020/11/afang-soup2.jpg",
+      "description": "The Nigerian Afang Soup, like the Edikang Ikong soup, is native to the Efiks, people of Akwa Ibom and Cross River states of Nigeria but enjoyed by all Nigerians. It is also very nutritious as the soup consists mainly of vegetables.",
+      "ingredients": [
+        "400g sliced Okazi/Afang leaves | about 4 handfuls",
+        "250g Water leaves",
+        "20 to 25 cl red palm oil (about 1 drink glass)",
+        "Beef, Kanda and Dry fish",
+        "2 tablespoons ground crayfish",
+        "Pepper and salt (to taste)",
+        "2 stock cubes"
+      ],
+      "instruction": [
+        "Boil the beef and Kanda with the diced onions and stock cubes in a very small quantity of water. When done, add the dry fish and cook for about 5 more minutes.",
+        "Now add the palm oil, crayfish and pepper. Once it starts boiling, add the afang (okazi) leaves, water leaves and periwinkle. When the okazi leaves have softened and the water has dried up a bit, add salt to taste and leave to simmer for about 5 minutes. The Afang soup is ready!"
+
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ediikang-ikong",
+      "image": "https://emispherefoods.com/wp-content/uploads/2021/10/1.png",
+      "description": "Edikang Ikong Soup is a highly nutritious, delicious and savory vegetable soup natively prepared using ‘ugwu’ (the native name for fluted pumpkin leaves) and Malabar spinach (locally called water leaf in Nigeria).",
+      "ingredients": [
+        "2 lbs Malabar Spinach aka Water leaf",
+        "2 lbs Pumpkin leaves (you may use ugwu if you have that available)",
+        "Any fish of your choice",
+        "½ cup Palm oil",
+        "2 Red onions",
+        "2 Scotch bonnet peppers",
+        "Vegetable cubes (Knorr)",
+        "Salt to taste"
+      ],
+      "instruction": [
+        "Slice both onions and scotch bonnet peppers, and set them aside.",
+        "On low- medium heat in a large stock pot, braise the goat meat with the one of the onions, scotch bonnet peppers, 1 tsp bullion and 1 tsp salt for 30 minutes or until the fish is cooked.",
+        "Keep the pot covered at all times during the braising process.",
+        "While the fish is cooking, wash the Malabar spinach in cool water to get rid of sand and dirt. Pick off the tough stems, but save the tender stems and leaves. Chop and set aside.",
+        "Wash the pumpkin leaves in cool water to get rid of sand and dirt. Pick off the tough stems, but save the tender stems and leaves. Chop and set aside.",
+        "Once the meat is tender and is done braising. Set aside.",
+        "In a deep pot heat up the palm oil on medium heat (be careful not to over heat the oil on high heat) and sauté the other sliced onion for 10 minutes until it is starting to get caramelized.",
+        "It is a very flavorful stock, and be used for another dish.",
+        "Add in 2 teaspoons of bullion, then add in the chopped water leaves and the pumpkin leaves. Stir and allow to stew uncovered on medium heat for 10 minutes.",
+        "After 10 minutes, taste the stew for seasoning and adjust the salt if necessary. Turn the heat off and allow the stew to sit for 5 minutes, then serve hot"
+      ]},
+      {
+        "id": 11,
+        "name": "Test",
+        "image": "https://w7.pngwing.com/pngs/407/764/png-transparent-yellow-smiley-emoji-emoji-computer-icons-emoticon-sunglasses-emoji-smiley-sticker-glasses.png",
+        "description": "Edikang Ikong Soup is a highly nutritious, delicious and savory vegetable soup natively prepared using ‘ugwu’ (the native name for fluted pumpkin leaves) and Malabar spinach (locally called water leaf in Nigeria).",
+        "ingredients": [
+          "2 lbs Malabar Spinach aka Water leaf",
+          "2 lbs Pumpkin leaves (you may use ugwu if you have that available)",
+          "Any fish of your choice",
+          "½ cup Palm oil",
+          "2 Red onions",
+          "2 Scotch bonnet peppers",
+          "Vegetable cubes (Knorr)",
+          "Salt to taste"
+        ],
+        "instruction": [
+          "Slice both onions and scotch bonnet peppers, and set them aside.",
+          "On low- medium heat in a large stock pot, braise the goat meat with the one of the onions, scotch bonnet peppers, 1 tsp bullion and 1 tsp salt for 30 minutes or until the fish is cooked.",
+          "Keep the pot covered at all times during the braising process.",
+          "While the fish is cooking, wash the Malabar spinach in cool water to get rid of sand and dirt. Pick off the tough stems, but save the tender stems and leaves. Chop and set aside.",
+          "Wash the pumpkin leaves in cool water to get rid of sand and dirt. Pick off the tough stems, but save the tender stems and leaves. Chop and set aside.",
+          "Once the meat is tender and is done braising. Set aside.",
+          "In a deep pot heat up the palm oil on medium heat (be careful not to over heat the oil on high heat) and sauté the other sliced onion for 10 minutes until it is starting to get caramelized.",
+          "It is a very flavorful stock, and be used for another dish.",
+          "Add in 2 teaspoons of bullion, then add in the chopped water leaves and the pumpkin leaves. Stir and allow to stew uncovered on medium heat for 10 minutes.",
+          "After 10 minutes, taste the stew for seasoning and adjust the salt if necessary. Turn the heat off and allow the stew to sit for 5 minutes, then serve hot"
+        ]
+    }
+  ]
+} 
